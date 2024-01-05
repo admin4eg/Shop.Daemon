@@ -1,27 +1,21 @@
---------------------------------------------------------------------------------
- 
- S U R V I V A L   S H O P    D A E M O N
- v. 1.2.2167 / 04.01.2022
- www.survivalshop.org
-
---------------------------------------------------------------------------------
-
-Service for organizing a fully automated donation store
+# shop-daemon
+Guest service for organizing a fully automated donation store
 
 Supported games:
 
 - Conan: Exiles
+- ARK: Survival Ascended
 
-Installation:
-----
+## Installation
 
 1) Unpack to drive C: (for example C:\Shop.Daemon)
 
 2) Follow the instructions to configure: https://survivalhost.wiki/Shop:Daemon
 
-Information about plugin features, examples, setup guides for games:
-https://survivalhost.wiki
+3) Create your donation shop at https://survivalshop.org/
 
-Technical support:
+## More
 
-Telegram: @survivalshopsupport
+Samples, guides for games: https://survivalhost.wiki
+
+Technical support: https://t.me/survivalshopsupport
