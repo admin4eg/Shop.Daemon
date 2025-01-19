@@ -5,6 +5,9 @@ Supported games:
 
 - Conan: Exiles
 - ARK: Survival Ascended
+- Myth Of Empires
+- Soul Mask
+- Palworld
 
 ## Installation
 
